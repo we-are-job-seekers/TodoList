@@ -252,7 +252,7 @@ BACKEND
 
 ## 💾 ERD
 
-![GoormHotel](https://github.com/goorm-fullstack/GoormHotel/assets/121299334/422972a4-bab8-4745-9d52-cd738319afad)
+![TodoList](https://github.com/user-attachments/assets/c9a1c4df-0212-4f62-88e2-43d46692904c)
 
 <br>
 
