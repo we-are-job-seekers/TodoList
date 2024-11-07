@@ -38,7 +38,7 @@
     <td align="center"><img src="https://avatars.githubusercontent.com/u/62269067?v=4" width="70"></td>
     <td>이동규(<a href="https://github.com/LEE-Donggyu" target="_blank">@LEE-Donggyu</a>)<br>Full-Stack</td>
     <td align="center">조장</td>
-    <td>게시글 CRUD 및 카테고리화, 검색, 댓글 CRUD 기능 구현, 일부 페이지 제작 참여</td>
+    <td>수정 중</td>
   </tr>
 </table>
 
