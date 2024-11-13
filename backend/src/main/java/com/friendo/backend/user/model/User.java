@@ -1,10 +1,12 @@
 package com.friendo.backend.user.model;
 
 import jakarta.persistence.*;
+import lombok.Getter;
 
 import java.sql.Timestamp;
 
 @Entity
+@Getter
 public class User {
 
     @Id
