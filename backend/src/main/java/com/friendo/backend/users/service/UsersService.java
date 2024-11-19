@@ -45,10 +45,9 @@ public class UsersService {
     }
 
     //아이디 찾기
-    public Optional<Users> findUserByUserNameAndUserEmail(String userName, String userEmail) {
-        Optional<Users> findUser = usersRepository.findByUserNameAndUserEmail(userName, userEmail);
+    public Users findUserByUserNameAndUserEmail(String userName, String userEmail) {
+        Optional<Users> users = usersRepository.findByUserNameAndUserEmail(userName, userEmail);
 
-        return findUser;
+        return users.orElse(null);
     }
-
 }
