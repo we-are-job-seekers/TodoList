@@ -36,9 +36,15 @@
   </tr>
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/62269067?v=4" width="70"></td>
-    <td>이동규(<a href="https://github.com/LEE-Donggyu" target="_blank">@LEE-Donggyu</a>)<br>Full-Stack</td>
-    <td align="center">조장</td>
-    <td>수정 중</td>
+    <td>이동규(<a href="https://github.com/LEE-Donggyu" target="_blank">@LEE-Donggyu</a>)<br>Backend</td>
+    <td align="center">팀장</td>
+    <td>Backend</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/62374847?v=4" width="70"></td>
+    <td>임성진(<a href="https://github.com/LIMSONGJIN" target="_blank">@LIMSONGJIN</a>)<br>Frontend</td>
+    <td align="center">팀원</td>
+    <td>Frontend</td>
   </tr>
 </table>
 
